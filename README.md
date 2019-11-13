@@ -11,3 +11,5 @@ To test the service
 2. call GET /evn
 3. env returns only one bean 
 
+//Wrong setup of application, missed the point
+
